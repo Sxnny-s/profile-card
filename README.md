@@ -5,7 +5,7 @@ This is a simple profile card created using HTML and CSS. The profile card showc
 ## Features
 - **Responsive Design**: The profile card adjusts seamlessly across devices (desktop, tablet, and mobile).
 - **CSS Styling**: Uses custom styles for layout, typography, and responsiveness.
-- **Social Media Links**: Includes links to social profiles like LinkedIn, GitHub, etc.
+- **Social Media Links**: Includes links to social profiles like Youtube, Twitter, etc.
 
 - ## Screen Shots
   ![image](https://github.com/user-attachments/assets/2e0834f5-feec-47ef-b08b-274c3a55cd27)
