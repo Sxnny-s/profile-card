@@ -22,4 +22,4 @@ You can view a live demo of the profile card [here](URL-to-live-demo).
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/profile-card.git](https://github.com/Sxnny-s/profile-card)
+   git clone https://github.com/Sxnny-s/profile-card
